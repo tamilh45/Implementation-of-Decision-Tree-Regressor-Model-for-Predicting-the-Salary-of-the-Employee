@@ -66,11 +66,11 @@ plt.show()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/e33b1880-323c-48b9-bda4-4077b56c736c)
+![Screenshot 2025-04-21 112558](https://github.com/user-attachments/assets/1fc42513-abaa-49ff-a7e1-982534482e2e)
 
-![image](https://github.com/user-attachments/assets/3ff3acc3-57f5-4666-8e2f-b2193f6543b0)
+![Screenshot 2025-04-21 112605](https://github.com/user-attachments/assets/a668dd73-6db6-4982-a3df-6e6754558473)
 
-![image](https://github.com/user-attachments/assets/99d0c814-db37-4fc2-9dea-ff03a9d23863)
+![Screenshot 2025-04-21 112617](https://github.com/user-attachments/assets/52ae3f28-1263-49b0-9ffa-823f6c14d684)
 
 
 ## Result:
