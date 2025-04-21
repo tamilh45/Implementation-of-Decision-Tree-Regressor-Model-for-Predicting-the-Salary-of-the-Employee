@@ -63,7 +63,7 @@ plt.ylabel('Salary')
 plt.legend()
 plt.grid(True)
 plt.show()
-
+```
 ## Output:
 
 ![Screenshot 2025-04-21 112558](https://github.com/user-attachments/assets/1fc42513-abaa-49ff-a7e1-982534482e2e)
